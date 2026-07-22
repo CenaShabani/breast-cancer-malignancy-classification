@@ -1,0 +1,14 @@
+# Pinned: unpinned means unreproducible. These versions are the ones every
+# number in the README was produced with, on Python 3.10.6.
+pandas==2.2.3
+numpy==1.26.4
+scipy==1.13.1
+scikit-learn==1.5.2
+statsmodels==0.14.4        # variance inflation factors
+matplotlib==3.9.2
+seaborn==0.13.2
+pyarrow==17.0.0            # parquet
+requests==2.32.3           # acquisition
+jupyter==1.1.1
+nbformat==5.10.4
+pytest==8.3.3
