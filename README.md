@@ -1,5 +1,8 @@
 # Breast Cancer Malignancy Classification
 
+**Moving the decision threshold from 0.50 to 0.14 cuts missed cancers from 3 of 42 to 1 of 42,
+for 0.9 percentage points of accuracy and three extra biopsies.**
+
 Classifying breast masses as malignant or benign from 30 nuclear morphometry features,
 measured on digitised fine-needle aspirate images of 569 patients.
 
